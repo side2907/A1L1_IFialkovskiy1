@@ -1,0 +1,12 @@
+<resources>
+
+    <!--Main_Info-->
+    <string name="app_name">Immortal</string>
+
+    <!--Text-->
+    <string name="text_main">###RANDOM###</string>
+
+    <!--Buttons-->
+    <string name="button_main">X Button</string>
+
+</resources>
